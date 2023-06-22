@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="classxsl.xsl"?> 
+<class> 
+<student> 
+    <firstname>subhasree</firstname> 
+    <lastname>siram</lastname> 
+    <role>student1</role> 
+    <dept>csit</dept> 
+    <fees>20</fees> 
+</student> 
+<student> 
+    <firstname>navyasree</firstname> 
+    <lastname>siram</lastname> 
+    <role>student1</role> 
+    <dept>ece</dept> 
+    <fees>20</fees> 
+</student> 
+</class>
